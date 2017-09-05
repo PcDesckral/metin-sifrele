@@ -9,7 +9,7 @@ $ciphertext = md5($plaintext);
 $result = md5($ciphertext);
 
 
-echo '$result\n';
+echo "$result\n";
 
 
 
